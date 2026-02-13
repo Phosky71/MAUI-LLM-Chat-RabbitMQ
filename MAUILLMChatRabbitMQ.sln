@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUILLMChatRabbitMQ", "MAUILLMChatRabbitMQ.csproj", "{483BE5EB-850F-43B9-A670-DE51CBD89B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483BE5EB-850F-43B9-A670-DE51CBD89B73}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E7F26F-D6E0-4E07-88A5-B66061990C63}
+	EndGlobalSection
+EndGlobal

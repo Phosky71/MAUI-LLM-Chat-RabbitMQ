@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MAUILLMChatRabbitMQ.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:MAUILLMChatRabbitMQ.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="LLM Chat">
+
+    <TabBar>
+        <ShellContent
+            Title="💬 Chat"
+            ContentTemplate="{DataTemplate views:MainPage}"
+            Route="MainPage" />
+
+        <ShellContent
+            Title="⚙️ Config"
+            ContentTemplate="{DataTemplate views:ConfigPage}"
+            Route="ConfigPage" />
+    </TabBar>
+
+</Shell>
